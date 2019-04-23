@@ -9,7 +9,6 @@ package modelo;
  *
  * @author gustso
  */
-public class PruebaGit {
-    int suma;
+public class Suma {
     
 }
